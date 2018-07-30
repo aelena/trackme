@@ -9,4 +9,6 @@ it is only a quick prototype for a competition some time ago, so do not expect c
 it uses classic Windows hooks (as a keylogger) to intercept your written input and send it to LUIS for analysis in the background, everytime 
 a sentence is finished (which is everytime a dot is written, for simplicity's sake). Use at your own risk.
 
+if interested just visit the \_doc folder for some screenshots and the "architecture" diagram...
+
 API keys for LUIS not included.
